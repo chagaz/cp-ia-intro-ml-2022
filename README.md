@@ -1,6 +1,6 @@
 # Certificat Chef de Projet IA / Fondamentaux du Machine Learning (2022)
 
-Ce répertoire contient les notebooks qui accompagnent le module « Fondamentaux du Machine Learning » du [Certificat Chef de Projet IA|https://executive-education.dauphine.psl.eu/formations/certificat/chef-projet-ia-big-data] 2021-2022.
+Ce répertoire contient les notebooks qui accompagnent le module « Fondamentaux du Machine Learning » du [Certificat Chef de Projet IA](https://executive-education.dauphine.psl.eu/formations/certificat/chef-projet-ia-big-data) 2021-2022.
 
 ## Librairies
 Ces notebooks ont été créés avec Python 3.9.7 et les librairies suivantes :
