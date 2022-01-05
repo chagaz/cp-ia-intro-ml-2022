@@ -1,0 +1,17 @@
+name: IntroML
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - ipython
+  - jupyterlab
+  - pandas>=1.3.4
+  - notebook
+  - rise
+  - numpy
+  - scipy
+  - spyder
+  - matplotlib
+  - nbtutor
+  - scikit-learn>=1.0.1
