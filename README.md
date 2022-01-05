@@ -25,7 +25,7 @@ Pour utiliser les même librairies, utilisez le fichier `package_list.yml` :
 * Cours 5 (vendredi 14/01 matin) : réduction de dimension
 * Cours 6 (vendredi 14/01 après-midi) : clustering
 
-### Utilisation avancée (git et nbstripout)
+## Utilisation avancée (git et nbstripout)
 Pour faciliter le contrôle de version avec de notebooks jupyter, vous pouvez utiliser [`nbstripout`](https://pypi.org/project/nbstripout/), qui nettoie votre notebook (en particulier en enlevant les cellules de sortie) : installez-le avec
 ```bash
 conda install -c conda-forge nbstripout
